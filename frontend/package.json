@@ -13,6 +13,7 @@
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
     "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
     "@magenta/music": "^1.23.1",
+    "axios": "^1.7.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },

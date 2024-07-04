@@ -5,7 +5,7 @@ import { NodeModulesPolyfillPlugin } from '@esbuild-plugins/node-modules-polyfil
 
 export default defineConfig({
   server: {
-    port: 5188,
+    port: 5200,
   },
   plugins: [react()],
   resolve: {
