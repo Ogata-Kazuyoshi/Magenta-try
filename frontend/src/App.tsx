@@ -1,5 +1,5 @@
 import './App.css'
-import {Magenta} from "./component/Magenta.tsx";
+// import {Magenta} from "./component/Magenta.tsx";
 import axios from "axios";
 
 function App() {
